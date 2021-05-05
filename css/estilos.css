@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.parrafo {
+  text-align: justify;
+}
+footer{
+	background-color: black;
+}
+.texto-footer{
+	color: white;
+	background-color: black;
+}
+
